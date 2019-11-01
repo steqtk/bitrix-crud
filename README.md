@@ -1,2 +1,2 @@
 # bitrix-crud
-Простой crud-модуль
+Простой ajax crud-модуль на D7
